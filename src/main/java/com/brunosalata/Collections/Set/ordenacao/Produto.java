@@ -1,4 +1,4 @@
-package com.brunosalata.Set.ordenacao;
+package com.brunosalata.Collections.Set.ordenacao;
 
 import java.util.Comparator;
 import java.util.Objects;

@@ -1,4 +1,4 @@
-package com.brunosalata.List.listaTarefa;
+package com.brunosalata.Collections.List.listaTarefa;
 
 import java.util.ArrayList;
 import java.util.List;

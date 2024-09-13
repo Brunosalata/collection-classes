@@ -1,4 +1,4 @@
-package com.brunosalata.List.pesquisaLivro;
+package com.brunosalata.Collections.List.pesquisaLivro;
 
 /**
  * @author Bruno Salata Lima - 16/05/2023

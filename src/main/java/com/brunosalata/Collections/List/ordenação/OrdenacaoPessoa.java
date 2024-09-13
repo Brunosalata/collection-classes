@@ -1,4 +1,4 @@
-package com.brunosalata.List.ordenação;
+package com.brunosalata.Collections.List.ordenação;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -19,17 +19,17 @@ public class OrdenacaoPessoa {
     }
 
     public void adicionarPessoa(String nome, int idade, double altura){
-        pessoaList.add(new com.brunosalata.List.ordenação.Pessoa(nome, idade, altura));
+        pessoaList.add(new Pessoa(nome, idade, altura));
     }
 
-    public List<com.brunosalata.List.ordenação.Pessoa> ordenarPorIdade() {
-        List<com.brunosalata.List.ordenação.Pessoa> pessoaPorIdade = new ArrayList<>(pessoaList);
+    public List<Pessoa> ordenarPorIdade() {
+        List<Pessoa> pessoaPorIdade = new ArrayList<>(pessoaList);
         Collections.sort(pessoaPorIdade, new ComparatorPorIdade());
         return pessoaPorIdade;
     }
 
-    public List<com.brunosalata.List.ordenação.Pessoa> ordenarPorAltura() {
-        List<com.brunosalata.List.ordenação.Pessoa> pessoaPorAltura = new ArrayList<>(pessoaList);
+    public List<Pessoa> ordenarPorAltura() {
+        List<Pessoa> pessoaPorAltura = new ArrayList<>(pessoaList);
         Collections.sort(pessoaPorAltura, new ComparatorPorAltura());
         return pessoaPorAltura;
     }

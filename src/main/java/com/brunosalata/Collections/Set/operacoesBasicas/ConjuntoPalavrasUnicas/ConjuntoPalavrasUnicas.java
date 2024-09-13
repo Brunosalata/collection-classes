@@ -1,4 +1,4 @@
-package com.brunosalata.Set.operacoesBasicas.ConjuntoPalavrasUnicas;
+package com.brunosalata.Collections.Set.operacoesBasicas.ConjuntoPalavrasUnicas;
 
 import java.util.HashSet;
 import java.util.Set;

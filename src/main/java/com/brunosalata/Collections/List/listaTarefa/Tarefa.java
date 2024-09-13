@@ -1,4 +1,4 @@
-package com.brunosalata.List.listaTarefa;
+package com.brunosalata.Collections.List.listaTarefa;
 
 /**
  * @author Bruno Salata Lima - 16/05/2023

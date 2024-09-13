@@ -1,4 +1,4 @@
-package com.brunosalata.Set.pesquisa;
+package com.brunosalata.Collections.Set.pesquisa;
 
 import java.util.HashSet;
 import java.util.Set;

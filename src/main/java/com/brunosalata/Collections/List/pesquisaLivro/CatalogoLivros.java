@@ -1,4 +1,4 @@
-package com.brunosalata.List.pesquisaLivro;
+package com.brunosalata.Collections.List.pesquisaLivro;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.brunosalata.Set.operacoesBasicas;
+package com.brunosalata.Collections.Set.operacoesBasicas;
 
 import java.util.HashSet;
 import java.util.Set;
