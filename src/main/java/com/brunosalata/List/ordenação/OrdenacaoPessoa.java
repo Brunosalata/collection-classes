@@ -1,9 +1,5 @@
 package com.brunosalata.List.ordenação;
 
-import com.brunosalata.List.ComparatorPorAltura;
-import com.brunosalata.List.ComparatorPorIdade;
-import com.brunosalata.List.Pessoa;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
